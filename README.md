@@ -68,3 +68,27 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+# Item Search App
+
+A simple React application that allows users to filter a list of items based on a search input. The application uses Redux for state management and Axios for API requests.
+
+## Features
+
+- Search functionality to filter items in real-time.
+- Pagination support.
+- Optimized to minimize unnecessary re-renders using React best practices.
+
+## Technologies Used
+
+- React
+- Redux Toolkit
+- Axios
+- CSS
+
+## Setup Instructions
+
+1. **Clone the repository:**
+
+   ```bash
+   git clone https://github.com/samyak-19/item-search-app.git
+
